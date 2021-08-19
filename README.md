@@ -39,6 +39,8 @@ Sorting these JSON objects will be much faster using this tool, versus writing a
   * "JsonArraySort" Table with 10 Fields and 3 Records
   * 1 new Layout: "JsonArraySort"
 
+10. Navigate to the new layout "JsonArraySort"
+
 #### Usage
 
 1. Observe the provided Json array on the left, or replace with your own Json array
